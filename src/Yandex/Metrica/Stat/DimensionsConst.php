@@ -158,23 +158,23 @@ class DimensionsConst
 
     const S_UTM_TERM = "ym:s:UTMTerm";
 
-    const S_ADV_ENGINE = "ym:s:AdvEngine";
+    const S_ADV_ENGINE = "ym:s:advEngine";
 
-    const S_REFERRER_DOMAIN = "ym:s:RefererDomain";
+    const S_REFERRER_DOMAIN = "ym:s:refererDomain";
 
-    const S_SEARCH_ENGINE = "ym:s:SearchEngine";
+    const S_SEARCH_ENGINE = "ym:s:searchEngine";
 
-    const S_SEARCH_ENGINE_ROOT = "ym:s:SearchEngineRoot";
+    const S_SEARCH_ENGINE_ROOT = "ym:s:searchEngineRoot";
 
-    const S_SEARCH_PHRASE = "ym:s:SearchPhrase";
+    const S_SEARCH_PHRASE = "ym:s:searchPhrase";
 
-    const S_SOCIAL_NETWORK = "ym:s:SocialNetwork";
+    const S_SOCIAL_NETWORK = "ym:s:socialNetwork";
 
-    const S_SOCIAL_NETWORK_PROFILE = "ym:s:SocialNetworkProfile";
+    const S_SOCIAL_NETWORK_PROFILE = "ym:s:socialNetworkProfile";
 
-    const S_SOURCE_ENGINE = "ym:s:SourceEngine";
+    const S_SOURCE_ENGINE = "ym:s:sourceEngine";
 
-    const S_TRAFFIC_SOURCE = "ym:s:TrafficSource";
+    const S_TRAFFIC_SOURCE = "ym:s:trafficSource";
 
     const S_AGE = "ym:s:age";
 
